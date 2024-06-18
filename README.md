@@ -48,6 +48,9 @@ aligned verify-proof-onchain \
   --chain holesky
 ```
 
-En Son Size Explorerli Bir bağlantı verecek, Onunla birlikte bir tweet atıyoruz.
+En Son Size Explorerli Bir bağlantı verecek, Onunla birlikte bir tweet atıyoruz. Ve tweet Linkini, discorddan, testnet bölümüne atıyoruz.
+Ve aligned_verification_data klasörünün içindeki dosyayı kaydediyoruz.
+
+
 
 
